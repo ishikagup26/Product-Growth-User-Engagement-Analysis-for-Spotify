@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Python
+__pycache__/
+
+# Database files
+*.db
+
+# Environment files
+.env
