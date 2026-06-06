@@ -245,4 +245,5 @@ Import `spotify_dataset.csv` into PostgreSQL.
 Ishika Gupta
 
 GitHub: https://github.com/ishikagup26
+
 LinkedIn: https://www.linkedin.com/in/ishika-gupta-5a29b4289/
