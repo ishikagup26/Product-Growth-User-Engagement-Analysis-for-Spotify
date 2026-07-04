@@ -1,0 +1,17 @@
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
